@@ -1,6 +1,6 @@
 # Desenvolvimento Web Direto ao Ponto
     
-    - construindo o primeiro site web, com um projeto basico de html5 e css, por enquanto.
+    - construindo o meu primeiro projeto web, contendo o basico de html5 e CSSS, por enquanto.
 
 ### Organização de projeto:
     - html concluido
