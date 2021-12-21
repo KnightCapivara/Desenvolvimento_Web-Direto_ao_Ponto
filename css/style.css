@@ -8,4 +8,34 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    color: #444;
+}
+
+section {
+    padding: 3rem 0 4rem 0;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+.gray {
+    background-color: #f7f7f7;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 1rem;
+}
+
+.intro p {
+    margin: 1rem 0;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+footer {
+    background-color: #3788bf;
 }
