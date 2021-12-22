@@ -110,6 +110,35 @@ h1.tittle {
     background-color: #3cbfa1;
 }
 
+.members {
+    display: flex;
+    justify-content: space-between;
+}
+
+.member img {
+    width: 120px;
+    height: 128px;
+    border-radius: 50%;
+}
+
 footer {
     background-color: #3788bf;
+}
+
+footer ul {
+    display: flex;
+    justify-content: space-evenly;
+
+    padding-top: 3rem;
+    list-style-type: none;
+}
+
+footer a {
+    color: white;
+}
+
+footer p.copyright {
+    padding: 3rem 0;
+    color: #ffffffdd;
+    text-align: center;
 }
