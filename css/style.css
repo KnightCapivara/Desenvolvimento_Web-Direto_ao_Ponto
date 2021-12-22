@@ -20,6 +20,12 @@ h1 {
     font-weight: normal;
 }
 
+h1.tittle {
+    margin-bottom: 2rem;
+    text-align: center;
+    font-weight: bold;
+}
+
 .gray {
     background-color: #f7f7f7;
 }
@@ -36,7 +42,7 @@ h1 {
     font-weight: 100;
 }
 
-.intro.cta {
+.intro .cta {
     margin: 2rem 0;
 }
 
@@ -60,6 +66,48 @@ h1 {
 .secondary {
     background-color: white;
     color: #444;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+/*  organização do Flex */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+/*  organização da largura e altura */
+    height: 150px;
+    width: 18%;
+
+/*  organização sobre o texto */
+    border-radius: 10px;
+    color: white;
+    font-size: 1.7rem;
+}
+
+.card.red {
+    background-color: #ec454e;
+}
+
+.card.blue {
+    background-color: #42b0f8;
+}
+
+.card.purple {
+    background-color: #9e69d5;
+}
+
+.card.yellow {
+    background-color: #f4a823;
+}
+
+.card.green {
+    background-color: #3cbfa1;
 }
 
 footer {
