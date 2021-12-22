@@ -4,6 +4,7 @@
 
 ### Organização de projeto:
     - html concluido
-    - css em desenvolvimento
+    - css flexbox concluido
+    - css gris em contrução
 
 Mentores: Lucas e Mauricio.
